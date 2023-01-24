@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Talha Imtiaz</h1>
 <h3 align="center">A passionate frontend developer, who love to play with shape and colours, from Pakistan doing his Bachelors in Computer Science from Ghulam Ishaq Khan Institute.</h3>
 
-- 🔭 I’m currently working on [StrateGik](strategik.herokuapp.com)
+- 🔭 I’m currently working on [StrateGik](https://strategik.cyclic.app)
 
 - 🌱 I’m currently learning **React Js**
 
