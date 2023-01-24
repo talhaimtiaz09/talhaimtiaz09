@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Talha Imtiaz</h1>
-<h3 align="center">A passionate frontend developer, who love to play with shape and colours, from Pakistan doing his Bachelors in Computer Science from Ghulam Ishaq Khan Institute.</h3>
+<h1 align="center">Hey, I'm Talha Imtiaz</h1>
+<h3 align="center">A passionate frontend developer from Pakistan persuing his Bachelors in Computer Science at Ghulam Ishaq Khan Institute.</h3>
 
-- 🔭 I’m currently working on [StrateGik](https://strategik.cyclic.app)
+-  Frontend Developer and Designer at [StrateGik](https://strategik.cyclic.app)
 
-- 🌱 I’m currently learning **React Js**
+-  I’m currently learning **React Js**
 
-- 👯 I’m looking to collaborate on **Frotend and UX/XI**
+-  I’m looking to collaborate on **Frotend and UX/XI**
 
-- 📫 How to reach me **talhaimtiaz2003@gmail.com**
+-  Drop a mail at **talhaimtiaz2003@gmail.com**
 
-- ⚡ Fun fact **I like philosophy**
+-  Fun fact **I like philosophy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
