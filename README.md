@@ -9,7 +9,7 @@
 
 -  Drop a mail at **talhaimtiaz2003@gmail.com**
 
--  Fun fact **I like philosophy**
+-  Fun fact **I like psycology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
