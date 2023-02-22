@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Talha Imtiaz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan persuing his Bachelors in Computer Science at Ghulam Ishaq Khan Institute.</h3>
 
--  Frontend Developer and Designer at [StrateGik](https://strategik.cyclic.app)
+-  Frontend Developer and Designer at [StrateGik](https://strategik.up.railway.app)
 
 -  I’m currently learning **React Js**
 
