@@ -6,15 +6,15 @@ Welcome to my GitHub profile! I'm a CS student with a passion for web developmen
 
 Here are some of the technologies and tools I've worked with:
 
-- <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React
-- <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
-- <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML
-- <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
-- <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> Tailwind CSS
-- <img src="https://img.icons8.com/color/48/000000/python.png"/> Python
-- <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++
-- <img src="https://img.icons8.com/ios-filled/50/000000/git.png"/> Git
-- <img src="https://img.icons8.com/windows/32/26e07f/figma.png"/> Figma
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/> React
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML
+<img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
+<img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> Tailwind CSS
+<img src="https://img.icons8.com/color/48/000000/python.png"/> Python
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++
+<img src="https://img.icons8.com/ios-filled/50/000000/git.png"/> Git
+<img src="https://img.icons8.com/windows/32/26e07f/figma.png"/> Figma
 
 ## 🔭 Projects
 
