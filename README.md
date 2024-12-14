@@ -33,6 +33,6 @@ As the co-founder and developer of [Strategik](https://strategik.up.railway.app)
 
 ## 📫 Let's Connect!
 
-I'm always open to new opportunities and collaborations. If you'd like to get in touch, feel free to reach out to me via email at [your email] or connect with me on [LinkedIn](https://www.linkedin.com/in/talha-imtiaz342/)
+I'm always open to new opportunities and collaborations. If you'd like to get in touch, feel free to reach out to me via email at talha.imtiaz.dev@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/talha-imtiaz342/)
 
 Thanks for stopping by! 😀
