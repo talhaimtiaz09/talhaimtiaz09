@@ -1,38 +1,55 @@
+
 # Hi, I'm Talha Imtiaz! 👋
 
-Welcome to my GitHub profile! I'm a CS student with a passion for web development and user experience design. I love building websites and applications that are both functional and visually appealing. 
+I'm currently working as a **DevOps Engineer at Carbonteq**, where I work with **Kubernetes, autoscaling, and cloud/on-prem server deployments**. I love solving infrastructure challenges, automating workflows, and building systems that scale reliably.
 
-## 🚀 Skills
+Apart from DevOps, I also work on **full-stack development** projects using **React** and **Python**. I enjoy building smart, user-friendly apps — including **Robin Relay**, an SRE agent built with **n8n automation** and **Agentic AI**, and a **CASA web app** for an international client.
 
-Here are some of the technologies and tools I've worked with:
+---
 
-<img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/> 
-<img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> 
-<img src="https://img.icons8.com/color/48/000000/python.png"/> 
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/git.png"/> 
-<img src="https://img.icons8.com/windows/32/26e07f/figma.png"/>
+## 🚀 Skills & Tools
+
+Here are some of the technologies and tools I’ve worked with:
+
+**DevOps & Cloud**
+☁️ Kubernetes · Docker · Azure · AWS · Nginx · CI/CD · Cloudflare · Grafana · Prometheus
+
+**Automation & Backend**
+⚙️ n8n · FastAPI · Flask · Supabase · Redis · Postgres
+
+**Frontend & Development**
+💻 React · JavaScript · TailwindCSS · HTML · CSS
+
+**Programming & Misc.**
+🐍 Python · C++ · Git · Figma
+
+---
 
 ## 🔭 Projects
 
-I enjoy working on personal projects in my free time. Here are some of my recent ones:
+Some of my favorite projects include:
 
-- [Todo-app (flask)](https://github.com/talhaimtiaz09/flaskt_todo_app)
-- [Js pong game](https://github.com/talhaimtiaz09/js-pong-game.github.io)
-- [ANN-TicTacToe](https://github.com/talhaimtiaz09/ANN_TicTacToe)
+* 🧠 **[Robin Relay](https://www.robinrelay.ai/)** – An SRE automation agent integrating Slack, n8n, and AI to summarize incidents, analyze alert trends, and visualize performance.
+* 🤖 **CASA App** – A Computer Assisted Sperm Analysis web app built for an international client having a realtime microscope stream acessible and processable over the internet.
+* ✅ [Flask Todo App](https://github.com/talhaimtiaz09/flaskt_todo_app)
+* 🕹️ [JS Pong Game](https://github.com/talhaimtiaz09/js-pong-game.github.io)
+* 🤖 [ANN-TicTacToe](https://github.com/talhaimtiaz09/ANN_TicTacToe)
 
-## StrateGIK
-
-As the co-founder and developer of [Strategik](https://strategik.up.railway.app), I designed and implemented the user interface, worked closely with back-end developers to ensure the platform's functionality, and developed features such as search and filter functionality to enhance user experience. My work on Strategik demonstrates my dedication to creating useful tools that facilitate learning and collaboration among students.
+---
 
 ## 🎓 Education
 
-- Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, Bachelors in CS,2025
+**Ghulam Ishaq Khan Institute of Engineering Sciences and Technology**
+🎓 Bachelors in Computer Science, 2025
+
+---
 
 ## 📫 Let's Connect!
 
-I'm always open to new opportunities and collaborations. If you'd like to get in touch, feel free to reach out to me via email at talha.imtiaz.dev@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/talha-imtiaz342/)
+💌 **Email:** [talha.imtiaz.dev@gmail.com](mailto:talha.imtiaz.dev@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/talha-imtiaz342](https://www.linkedin.com/in/talha-imtiaz342/)
+🐙 **GitHub:** [github.com/talhaimtiaz09](https://github.com/talhaimtiaz09)
 
-Thanks for stopping by! 😀
+---
+
+Would you like me to make this version more **graphical and interactive** (with badges, visitor counter, or GitHub stats cards)? It would make your profile look more professional and dynamic.
