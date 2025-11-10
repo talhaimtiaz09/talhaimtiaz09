@@ -50,6 +50,4 @@ Some of my favorite projects include:
 💼 **LinkedIn:** [linkedin.com/in/talha-imtiaz342](https://www.linkedin.com/in/talha-imtiaz342/)
 🐙 **GitHub:** [github.com/talhaimtiaz09](https://github.com/talhaimtiaz09)
 
----
 
-Would you like me to make this version more **graphical and interactive** (with badges, visitor counter, or GitHub stats cards)? It would make your profile look more professional and dynamic.
