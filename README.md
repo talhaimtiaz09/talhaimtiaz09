@@ -1,7 +1,7 @@
 # ⚡ System.init("Talha Imtiaz")
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=00b4d8&height=200&section=header&text=DevOps%20%26%20Cloud%20Native&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="pexels-nst1001-10988700.jpg" width="100%" />
 </p>
 
 <p align="center">
