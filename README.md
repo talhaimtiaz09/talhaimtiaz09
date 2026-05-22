@@ -1,70 +1,449 @@
-# ⚡ System.init("Talha Imtiaz")
+<!--
+  Talha Imtiaz — GitHub Profile README
+  Direction: Platform Engineering / Cloud-Native / Control Plane Aesthetic
+-->
 
 <p align="center">
-  <img src="pexels-nst1001-10988700.jpg" width="100%" />
+  <img src="pexels-nst1001-10988700.jpg" width="100%" alt="Mechanical keyboard desk setup banner" />
+</p>
+
+<h1 align="center">
+  ⚡ System.init("Talha Imtiaz")
+</h1>
+
+<p align="center">
+  <strong>DevOps Engineer · Cloud-Native Systems · Platform Engineering</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=DevOps+Engineering+@CarbonTeq;K8s+Orchestration+%26+Autoscaling;AI+Systems+%26+RAG+Architectures;Full-Stack+Cloud+Solutions" alt="Typing SVG" />
+  <a href="mailto:talha.imtiaz.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-talha.imtiaz.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/talha-imtiaz342">
+    <img src="https://img.shields.io/badge/LinkedIn-Talha%20Imtiaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://talhaimtiaz.me">
+    <img src="https://img.shields.io/badge/Portfolio-talhaimtiaz.me-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
-### 🛰️ Mission Brief
-I am a **Software Engineer** focused on building and maintaining **cloud-native, AI-powered systems**. I take full ownership from architecture to deployment, specializing in **Kubernetes infrastructure, real-time platforms, and CI/CD automation**.
+---
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+## `system.identity`
+
+```yaml
+name: Talha Imtiaz
+role: DevOps Engineer
+base: Lahore, Pakistan
+
+specialization:
+  - Cloud-native infrastructure
+  - Kubernetes operations
+  - CI/CD automation
+  - Production deployment workflows
+  - Platform engineering foundations
+
+primary_cloud: Google Cloud Platform
+expanding_into: AWS
+target_path: Platform Engineer
+````
+
+</td>
+<td width="42%" valign="top">
+
+## `status.board`
+
+```txt
+MODE        platform-engineering
+FOCUS       reliability + automation
+RUNTIME     kubernetes
+CLOUD       gcp → aws
+PIPELINES   github-actions + gitlab-ci
+IaC         terraform + pulumi
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technical Arsenal
+## `mission.control`
 
-| ☁️ Infrastructure & Cloud | 🤖 AI & Backend | 💻 Frontend & Tools |
-| :--- | :--- | :--- |
-| ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)|
-| ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | ![RAG](https://img.shields.io/badge/RAG_Systems-005571?style=flat-square&logo=openai&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
-| ![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+I work on the infrastructure layer that helps software move from local development to reliable production.
 
----
+My focus is not only writing code, but making systems deployable, observable, repeatable, and easier to operate. I care about clean deployment flows, strong automation, reliable infrastructure, and platforms that reduce operational friction for engineering teams.
 
-## 📈 Impact Metrics
+```bash
+$ talha --focus
 
-* 🚀 **Scaling Excellence:** Architected GKE infrastructure at **CarbonTeq**, scaling from **70 to 400+ users** while sustaining **5x traffic spikes**.
-* ⚡ **Build Optimization:** Reduced Next.js build times by **66%** (6m → 2m) through engineered CI/CD pipelines.
-* 🤖 **AI Efficiency:** Developed **Robin Relay**, an AI SRE assistant that reduced alert noise by **75%** using RAG and Azure OpenAI.
-* ⏱️ **Real-Time Performance:** Achieved **~5ms latency** for live microscope streaming and optimized video pipelines by **64%**.
-
----
-
-## 🧪 Featured Labs
-
-#### 🧠 **[Robin Relay](https://talhaimtiaz.me)**
-> **Agentic SRE Automation** | Built with FastAPI and n8n, this system uses RAG to summarize incidents and visualize alert heatmaps with 30% better retrieval efficiency.
-
-#### 🏥 **[CareAi Therapy Platform](https://talhaimtiaz.me)**
-> **GDPR-Compliant Real-time Web** | Supporting 100+ concurrent sessions with sub-200ms latency for live transcription and EMDR tools.
-
-#### 📡 **[HypeRadar](https://talhaimtiaz.me)**
-> **AI Marketing Suite** | FYP Award-winning platform leveraging OpenAI and 1000+ templates for automated multi-platform campaign scheduling.
+> containerize applications
+> build ci/cd pipelines
+> provision cloud infrastructure
+> deploy workloads on kubernetes
+> improve logs, metrics, and operational visibility
+> automate repetitive engineering workflows
+```
 
 ---
 
-## 📊 Performance Stats
+## `control.plane`
+
+```mermaid
+flowchart LR
+    A["Developer Workflow"] --> B["CI/CD Pipeline"]
+    B --> C["Container Registry"]
+    C --> D["Cloud Infrastructure"]
+    D --> E["Kubernetes Runtime"]
+    E --> F["Ingress / Services"]
+    E --> G["Logs / Metrics / Alerts"]
+    G --> H["Optimization Loop"]
+    H --> B
+
+    style A fill:#020617,stroke:#38bdf8,color:#ffffff
+    style B fill:#0f172a,stroke:#38bdf8,color:#ffffff
+    style C fill:#0f172a,stroke:#38bdf8,color:#ffffff
+    style D fill:#082f49,stroke:#38bdf8,color:#ffffff
+    style E fill:#075985,stroke:#7dd3fc,color:#ffffff
+    style F fill:#0f172a,stroke:#38bdf8,color:#ffffff
+    style G fill:#111827,stroke:#facc15,color:#ffffff
+    style H fill:#020617,stroke:#22c55e,color:#ffffff
+```
+
+---
+
+## `stack.surface`
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=talhaimtiaz09&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=talhaimtiaz09&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,kubernetes,docker,terraform,linux,githubactions,gitlab,python,nodejs,fastapi,nextjs,postgres,redis,bash,git&perline=8" />
+</p>
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### Cloud
+
+```txt
+GCP
+AWS
+IAM
+Networking
+Compute
+Storage
+```
+
+</td>
+<td width="25%" valign="top">
+
+### Runtime
+
+```txt
+Kubernetes
+Docker
+Ingress
+Services
+Autoscaling
+Workloads
+```
+
+</td>
+<td width="25%" valign="top">
+
+### Automation
+
+```txt
+Terraform
+Pulumi
+GitHub Actions
+GitLab CI
+Bash
+Pipelines
+```
+
+</td>
+<td width="25%" valign="top">
+
+### Application
+
+```txt
+Python
+Node.js
+FastAPI
+Next.js
+PostgreSQL
+Redis
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `impact.telemetry`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Infrastructure Scaling
+
+```txt
+Designed and maintained GKE infrastructure
+supporting growth from 70 to 400+ users.
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Traffic Reliability
+
+```txt
+Helped production workloads sustain
+5x traffic spikes through cloud-native scaling.
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### CI/CD Optimization
+
+```txt
+Reduced Next.js build time from ~6 minutes
+to ~2 minutes through pipeline improvements.
+```
+
+</td>
+<td width="50%" valign="top">
+
+### AI Operations
+
+```txt
+Built Robin Relay, an AI SRE assistant for
+alert summarization and incident intelligence.
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Real-Time Systems
+
+```txt
+Worked on low-latency video and microscope
+streaming workflows for AI-assisted analysis.
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Platform Direction
+
+```txt
+Focused on building internal platforms,
+automation layers, and reliable delivery systems.
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `featured.systems`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Robin Relay
+
+**AI SRE Automation Platform**
+
+An incident intelligence system that uses RAG workflows and automation to summarize alerts, reduce noise, and improve operational visibility.
+
+```txt
+FastAPI · RAG · Azure OpenAI · n8n · Alert Intelligence
+```
+
+<a href="https://talhaimtiaz.me">
+  <img src="https://img.shields.io/badge/Case_Study-View_System-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### CareAi Therapy Platform
+
+**Real-Time Healthcare Web Platform**
+
+A privacy-aware therapy platform with real-time sessions, transcription workflows, and interactive EMDR tooling.
+
+```txt
+Realtime Web · WebSockets · Transcription · Session Workflows
+```
+
+<a href="https://talhaimtiaz.me">
+  <img src="https://img.shields.io/badge/Case_Study-View_System-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### HypeRadar
+
+**AI Marketing Automation Suite**
+
+Award-winning FYP platform for AI-assisted campaign generation, template-based content creation, and campaign scheduling.
+
+```txt
+OpenAI · Automation · Scheduling · Full-Stack Platform
+```
+
+<a href="https://talhaimtiaz.me">
+  <img src="https://img.shields.io/badge/Case_Study-View_System-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### Microscope AI Video Pipeline
+
+**Live Video + AI Processing System**
+
+Low-latency microscope video pipeline for AI-assisted analysis, processing, and real-time visualization.
+
+```txt
+Video Processing · Streaming · AI Pipeline · Low Latency
+```
+
+<a href="https://talhaimtiaz.me">
+  <img src="https://img.shields.io/badge/Case_Study-View_System-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `operating.model`
+
+```mermaid
+flowchart TD
+    A["Understand System"] --> B["Map Failure Points"]
+    B --> C["Automate Repetition"]
+    C --> D["Deploy Safely"]
+    D --> E["Observe Runtime"]
+    E --> F["Tune Cost + Performance"]
+    F --> A
+
+    style A fill:#020617,stroke:#38bdf8,color:#ffffff
+    style B fill:#0f172a,stroke:#38bdf8,color:#ffffff
+    style C fill:#082f49,stroke:#7dd3fc,color:#ffffff
+    style D fill:#075985,stroke:#7dd3fc,color:#ffffff
+    style E fill:#111827,stroke:#facc15,color:#ffffff
+    style F fill:#052e16,stroke:#22c55e,color:#ffffff
+```
+
+---
+
+## `github.signal`
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=talhaimtiaz09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=GitHub%20Signal" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=talhaimtiaz09&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaimtiaz09&layout=compact&theme=tokyonight&hide_border=true&custom_title=Language%20Surface" />
 </p>
 
 ---
 
-## 🎓 Background
-* **B.S. Computer Science** | Ghulam Ishaq Khan Institute (GIKI)
-* **Awards:** Dean’s Honor List | 3rd Place FYP EXPO 2025
-* **Publication:** Genetic Algorithm-Based Timetable Generator (IEEE 2024)
+## `learning.pipeline`
+
+```txt
+Current direction:
+
+01. Deepen AWS architecture fundamentals
+02. Strengthen Terraform-based infrastructure design
+03. Build more Kubernetes-heavy platform projects
+04. Improve production observability patterns
+05. Move toward remote platform engineering roles
+```
 
 ---
 
-## 📫 Establish Connection
-<p align="left">
-<a href="mailto:talha.imtiaz.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/talha-imtiaz342"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://talhaimtiaz.me"><img src="https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+## `background`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Education
+
+```txt
+B.S. Computer Science
+Ghulam Ishaq Khan Institute
+```
+
+</td>
+<td width="33%" valign="top">
+
+### Recognition
+
+```txt
+Dean's Honor List
+3rd Place — FYP Expo 2025
+```
+
+</td>
+<td width="33%" valign="top">
+
+### Publication
+
+```txt
+Genetic Algorithm-Based
+Timetable Generator
+IEEE 2024
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `connect.route`
+
+<p align="center">
+  <a href="mailto:talha.imtiaz.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Open_Channel-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/talha-imtiaz342">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://talhaimtiaz.me">
+    <img src="https://img.shields.io/badge/Portfolio-View_Work-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/talhaimtiaz09">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
+---
+
