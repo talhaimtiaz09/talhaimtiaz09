@@ -1,16 +1,16 @@
 <h1 align="center">Talha Imtiaz</h1>
 
 <p align="center">
-DevOps Engineer • Platform Engineering • Cloud Infrastructure
+Platform Engineer • DevOps • Cloud Infrastructure
 </p>
 
 <p align="center">
-I build production infrastructure that scales reliably and helps engineers ship faster.
+I build scalable infrastructure, internal developer platforms, and AI-powered operational tooling.
 </p>
 
 <p align="center">
-<a href="mailto:talha.imtiaz.dev@gmail.com">Email</a> •
-<a href="https://linkedin.com/in/talha-imtiaz342">LinkedIn</a> •
+<a href="mailto:talha.imtiaz.dev@gmail.com">Email</a> ·
+<a href="https://linkedin.com/in/talha-imtiaz342">LinkedIn</a> ·
 <a href="https://talhaimtiaz.me">Portfolio</a>
 </p>
 
@@ -18,44 +18,45 @@ I build production infrastructure that scales reliably and helps engineers ship 
 
 ## About
 
-I'm a DevOps engineer with hands-on production experience across Kubernetes, cloud infrastructure, CI/CD, observability, and internal developer platforms.
+I'm a DevOps / platform engineer working on production infrastructure across cloud, Kubernetes, CI/CD, and developer tooling.
 
-I enjoy solving infrastructure problems where reliability, scale, and developer productivity intersect.
+I enjoy solving infrastructure problems where **scale, reliability, and developer experience** intersect.
 
 Typical problems I like working on:
 
 * Scaling systems under real production load
-* Reducing deployment friction and CI bottlenecks
-* Building reusable platform tooling for engineering teams
-* Improving observability and operational reliability
+* Reducing CI/CD bottlenecks
+* Building reusable internal platforms
+* Automating operational workflows
+* Improving observability and incident response
 
-Currently focused on deepening AWS and platform engineering expertise while building infrastructure-heavy projects outside work.
+I’m particularly interested in the emerging intersection of **platform engineering and AI-assisted operations**.
 
 ---
 
 ## Selected Impact
 
-### Scaled production game infrastructure
+### Scaled multiplayer infrastructure from ~80 → 400+ concurrent users
 
-Increased capacity from **~75 to 400+ concurrent users** using Kubernetes workload isolation and autoscaling.
+Improved production capacity using workload isolation, Kubernetes autoscaling, and infrastructure tuning without architectural rewrites.
 
-### Reduced CI latency by 66%
+### Reduced CI build time by 66%
 
-Cut build time from **~6 minutes to ~2 minutes**, improving engineering feedback loops and delivery speed.
+Optimized pipeline caching, parallelization, and job orchestration, cutting build time from ~6 minutes to ~2 minutes.
 
 ### Built production mobile release automation
 
-Designed CI/CD pipelines supporting OTA and native release workflows with automated testing and reporting.
+Designed release pipelines that automatically choose between OTA and native builds, with integrated testing and reporting.
 
-### Built AI-assisted incident tooling
+### Built AI-assisted incident response tooling
 
-Created internal SRE workflows for alert triage, context retrieval, and runbook discovery.
+Created internal SRE workflows for alert triage, operational context retrieval, and runbook discovery.
 
 ---
 
 ## Core Stack
 
-```txt
+```txt id="stack"
 Cloud          GCP, AWS
 Containers     Kubernetes, Docker
 Infrastructure Terraform, Pulumi
@@ -68,47 +69,62 @@ Languages      Python, Bash, TypeScript
 
 ## Featured Projects
 
-### Multiplayer Platform Scaling
-
-GKE • Kubernetes • KEDA • Pulumi
-
-Scaled multiplayer workloads through autoscaling and workload isolation without architectural rewrites.
-
----
-
 ### React Native Release Platform
 
-GitLab CI • Expo EAS • Appium
+**GitLab CI · Expo EAS · Appium · BrowserStack**
 
-Automated release orchestration for mobile apps with OTA detection, testing, reporting, and artifact management.
+Production-ready mobile release automation platform with OTA/native build decisioning, automated QA, and reporting.
 
 ---
 
 ### Self-Hosted Coding Agent Platform
 
-Docker • Rust • TypeScript • Traefik
+**Rust · TypeScript · Docker · Traefik**
 
-Built sandboxed multi-project AI coding environments with persistent workspaces and browser-based access.
+Built isolated AI coding workspaces with persistent sessions, browser access, and sandboxed execution.
 
 ---
 
 ### Robin Relay — AI SRE Copilot
 
-FastAPI • RAG • Azure OpenAI
+**FastAPI · RAG · Azure OpenAI · Datadog**
 
-AI-powered incident response assistant that summarizes alerts and retrieves operational context.
+AI-powered incident assistant that summarizes alerts and retrieves relevant operational context.
 
 ---
 
-## What I’m Looking For
+### Kubernetes Overbooking Detection
 
-Open to roles in:
+**Python · Kubernetes · Apache Spark**
+
+Prototype system for detecting CPU and memory overbooking in Kubernetes clusters using workload telemetry.
+
+---
+
+## What Sets Me Apart
+
+Most DevOps engineers focus on infrastructure.
+
+I focus on the layer above infrastructure: **platforms that help engineers ship faster and operate reliably**.
+
+That includes:
+
+* Kubernetes platform architecture
+* Developer experience tooling
+* Release engineering
+* AI-assisted operational workflows
+
+I care about building systems that are not just scalable, but easy for teams to use.
+
+---
+
+## Currently Interested In
+
+I’m open to opportunities in:
 
 * Platform Engineering
 * DevOps / SRE
 * Cloud Infrastructure
-* Developer Platform / Internal Tooling
+* Internal Developer Platforms
 
-Interested in teams solving hard infrastructure problems at scale.
-
-</p>
+Especially teams solving hard infrastructure problems at scale.
