@@ -1,51 +1,55 @@
-<p align="center">
-  <img src="pexels-nst1001-10988700.jpg" width="100%" alt="Mechanical keyboard desk setup banner" />
-</p>
-
 <h1 align="center">Talha Imtiaz</h1>
 
 <p align="center">
-  DevOps Engineer • Platform Engineering • Cloud Infrastructure
+DevOps Engineer • Platform Engineering • Cloud Infrastructure
 </p>
 
 <p align="center">
-  Building reliable infrastructure, scalable platforms, and internal developer systems.
+I build production infrastructure that scales reliably and helps engineers ship faster.
 </p>
 
 <p align="center">
-  <a href="mailto:talha.imtiaz.dev@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/in/talha-imtiaz342">LinkedIn</a> ·
-  <a href="https://talhaimtiaz.me">Portfolio</a>
+<a href="mailto:talha.imtiaz.dev@gmail.com">Email</a> •
+<a href="https://linkedin.com/in/talha-imtiaz342">LinkedIn</a> •
+<a href="https://talhaimtiaz.me">Portfolio</a>
 </p>
 
 ---
 
 ## About
 
-I design and operate production infrastructure across cloud, Kubernetes, CI/CD, and observability.
+I'm a DevOps engineer with hands-on production experience across Kubernetes, cloud infrastructure, CI/CD, observability, and internal developer platforms.
 
-My work focuses on systems that are:
+I enjoy solving infrastructure problems where reliability, scale, and developer productivity intersect.
 
-- Scalable under load  
-- Operationally reliable  
-- Secure by default  
-- Easy for engineering teams to ship on  
+Typical problems I like working on:
+
+* Scaling systems under real production load
+* Reducing deployment friction and CI bottlenecks
+* Building reusable platform tooling for engineering teams
+* Improving observability and operational reliability
+
+Currently focused on deepening AWS and platform engineering expertise while building infrastructure-heavy projects outside work.
 
 ---
 
 ## Selected Impact
 
-**Scaled multiplayer infrastructure**  
-70–80 → **400+ concurrent users** using Kubernetes autoscaling and workload isolation.
+### Scaled production game infrastructure
 
-**Improved delivery velocity**  
-Reduced CI build times by **66%** through pipeline optimization.
+Increased capacity from **~75 to 400+ concurrent users** using Kubernetes workload isolation and autoscaling.
 
-**Built release automation**  
-Designed mobile delivery pipelines with OTA/native build orchestration.
+### Reduced CI latency by 66%
 
-**AI-assisted SRE tooling**  
-Built incident intelligence workflows for alert triage and operational context.
+Cut build time from **~6 minutes to ~2 minutes**, improving engineering feedback loops and delivery speed.
+
+### Built production mobile release automation
+
+Designed CI/CD pipelines supporting OTA and native release workflows with automated testing and reporting.
+
+### Built AI-assisted incident tooling
+
+Created internal SRE workflows for alert triage, context retrieval, and runbook discovery.
 
 ---
 
@@ -55,35 +59,56 @@ Built incident intelligence workflows for alert triage and operational context.
 Cloud          GCP, AWS
 Containers     Kubernetes, Docker
 Infrastructure Terraform, Pulumi
-Delivery       GitLab CI, GitHub Actions
-Observability  Datadog, Prometheus
+CI/CD          GitLab CI, GitHub Actions
+Observability  Datadog, Prometheus, CloudWatch
 Languages      Python, Bash, TypeScript
-````
+```
 
 ---
 
-## Selected Work
+## Featured Projects
 
 ### Multiplayer Platform Scaling
 
-`GKE · Kubernetes · KEDA · Pulumi`
+GKE • Kubernetes • KEDA • Pulumi
 
-### React Native Release Platform
-
-`GitLab CI · Expo EAS · Appium`
-
-### Self-Hosted Coding Agent Platform
-
-`Docker · Linux · Sandbox Infrastructure`
-
-### Robin Relay — AI SRE Copilot
-
-`FastAPI · RAG · Azure OpenAI`
+Scaled multiplayer workloads through autoscaling and workload isolation without architectural rewrites.
 
 ---
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=talhaimtiaz09&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaimtiaz09&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### React Native Release Platform
 
+GitLab CI • Expo EAS • Appium
+
+Automated release orchestration for mobile apps with OTA detection, testing, reporting, and artifact management.
+
+---
+
+### Self-Hosted Coding Agent Platform
+
+Docker • Rust • TypeScript • Traefik
+
+Built sandboxed multi-project AI coding environments with persistent workspaces and browser-based access.
+
+---
+
+### Robin Relay — AI SRE Copilot
+
+FastAPI • RAG • Azure OpenAI
+
+AI-powered incident response assistant that summarizes alerts and retrieves operational context.
+
+---
+
+## What I’m Looking For
+
+Open to roles in:
+
+* Platform Engineering
+* DevOps / SRE
+* Cloud Infrastructure
+* Developer Platform / Internal Tooling
+
+Interested in teams solving hard infrastructure problems at scale.
+
+</p>
